@@ -6,8 +6,8 @@ Mail : Xaviermrt88@gmail.com
 Tél : 06016494XX
 
 # PRESENTATION
-
->Après 15 années dédiées à la restauration, je suis prêt à relever un nouveau défi professionnel passionnant. Motivé par les nouvelles technologies et soucieux d'acquérir de nouvelles compétences, je me lance dans une formation pour devenir technicien supérieur systèmes et réseaux. Mon expérience passée m'a appris la rigueur, l'adaptabilité et le sens du service client, des qualités essentielles pour réussir dans ce domaine.
+![photo de moi](https://github.com/xababa88/cv/blob/main/moi.jpg)  
+Après 15 années dédiées à la restauration, je suis prêt à relever un nouveau défi professionnel passionnant. Motivé par les nouvelles technologies et soucieux d'acquérir de nouvelles compétences, je me lance dans une formation pour devenir technicien supérieur systèmes et réseaux. Mon expérience passée m'a appris la rigueur, l'adaptabilité et le sens du service client, des qualités essentielles pour réussir dans ce domaine.
 # FORMATIONS
 
 * Bac (général, technique ou professionnel) ou
